@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN stack.<br><br>👨‍💻 All of my projects are available at https://hirushan-rajapaksha.netlify.app<br><br>📫 How to reach me hirurajapaksha2002@gmail.com<br><br>⚡ Fun fact I’m a coding enthusiast who loves solving puzzles and challenges in my free time!
+🌱 I’m currently learning MERN stack.<br><br>👨‍💻 My portfolio is available at https://hirushan-rajapaksha.netlify.app<br><br>📫 How to reach me hirurajapaksha2002@gmail.com<br><br>⚡ Fun fact I’m a coding enthusiast who loves solving puzzles and challenges in my free time!
 
 
 ## 🌐 Socials:
